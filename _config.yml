@@ -3,13 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+#站点配置
+title: Cxzxy_blog
+subtitle: Cxzxy_blog
+description: I'm a shabi
 keywords:
-author: John Doe
+author: Cxzxy
 language: en
 timezone: ''
+logo: https://image-website.com/path-to-image.jpg
+avatar: https://image-website.com/path-to-image.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
